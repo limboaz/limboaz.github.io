@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Raleway', sans-serif;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -47,9 +48,10 @@ ul.posts li {
 }
 
 .left {
-    width: 25%;
+    width: 20%;
 }
 
 .right {
-    width: 75%;
+    width: 80%;
 }
+

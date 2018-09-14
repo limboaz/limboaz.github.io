@@ -3,7 +3,7 @@ body {
     width: 60%;
     font-family: 'Raleway', sans-serif;
     background-image: url('/background.jpg');
-    background-position: center bottom;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
@@ -47,8 +47,4 @@ footer {
 
 .right {
     width: 82%;
-}
-
-.container {
-    margin-bottom: 100px;
 }

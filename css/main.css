@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Raleway', sans-serif;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -55,3 +54,6 @@ ul.posts li {
     width: 80%;
 }
 
+.bio {
+    font-family: 'Raleway', sans-serif;
+}

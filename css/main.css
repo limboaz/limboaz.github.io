@@ -1,7 +1,10 @@
 body {
-    margin: 120px auto;
+    margin: 140px auto;
     width: 70%;
     font-family: 'Raleway', sans-serif;
+    background-image: url('/background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
 }
 
 nav ul, footer ul {

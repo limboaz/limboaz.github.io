@@ -45,3 +45,8 @@ footer {
 .right {
     width: 82%;
 }
+
+img{
+    width: 90%;
+    height: auto;
+}
